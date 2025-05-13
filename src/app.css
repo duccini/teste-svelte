@@ -1,0 +1,5 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Se quiser usar typography, mantenha o plugin instalado e adicione classes como prose no HTML */
